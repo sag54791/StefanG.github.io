@@ -1,0 +1,38 @@
+body {
+background: #23caba;
+text-align: left;
+font-size: 18pt;
+font-family:"Times New Roman";
+}
+#main {
+width: 1000px;
+height: 2600px;
+background: #ff3819
+margin: 25px auto;
+border: solid 2px #ff3819;
+padding: 10px;
+}
+h1{
+text-align: center;
+font-family:"Freestyle Script";
+font: 24pt;
+color: #ff3819;
+}
+hr{
+height: 2px;
+color: #ff3819;
+}
+p{
+font-family: "Calibri";
+font-size: 18pt;
+text-align: left;
+text-indent: 48px;
+color: #2f2d2d;
+}
+table th {
+	text-align:left;
+}
+table td {
+	border: 1px solid #e3e3e3;
+	padding: 4px 8px;
+}
